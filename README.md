@@ -7,11 +7,11 @@ This Plugin is very simple and easy to use. You are already a bigcommerce mercha
 
 Bigcommerce Plugins are typically built on independent server. You don't needs a tedious downlaod and installation processes.
 Just login to your bigcommerce dashboard. Don't have a bigcommerce account? Sign up here at [Bigcommerce](https://bigcommerce.com).
-From the dashboard, visit apps -> app market. Search for ItexPay. ? This app is not yet available in the bigcommerce market store. We will notify you soon! ?
+From the dashboard, visit apps -> app market. Search for ItexPay. ?This app is not yet available in the bigcommerce market store. We will notify you soon!¿
 
 Need to run this app locally in development mode? No worries.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bigcommerce/sample-app-nodejs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itexplugins/itexpay_bigcommerce_plugin)
 
 To get the app running locally, follow these instructions:
 
