@@ -4,18 +4,8 @@ import {Box, Button, Form, FormGroup, Input} from "@bigcommerce/big-design";
 export default function  FormComponent()  {
 
 
-    // const  [inputValue, setInputValue] =  useState('');
-    // const  handleChange = (event) => {
-    //     setInputValue(event.target.value);
-    // };
-
     return  (
-        // <form>
-        //     <label>Input Value:
-        //         <input  type="text"  value={inputValue} onChange={handleChange} />
-        //     </label>
-        //     <p>Input Value: {inputValue}</p>
-        // </form>
+
         <Form>
             <FormGroup>
                 <Box marginTop="xxLarge" marginLeft="xxLarge">
